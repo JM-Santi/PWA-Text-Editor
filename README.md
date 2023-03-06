@@ -17,7 +17,7 @@ Click install button
 ## Usage
 
 
-![Untitled_ Mar 6, 2023 3_53 PM](https://user-images.githubusercontent.com/113136342/223228702-57c753b4-b6e4-4564-9e5e-93852dd22b7f.gif)
+![Untitled_ Mar 6, 2023 3_53 PM](https://user-images.githubusercontent.com/113136342/223230571-62f512f9-9b77-463c-9b34-47f3c5d84a26.gif)
 
 
 ## License
